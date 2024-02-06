@@ -13,14 +13,14 @@
 
 - 📧 How to reach me **rinlaphas.07@gmail.com**
 
-- ⭐️ Certificate **
-  -**SQL Hacker Rank (BASIC)**
-  -**Microsoft Excel for Working**
-  -**Photoshop for Working**
-  -**Power BI**
-  -**AIESEC**
-  -**Presenting academic work on information technology for study tours from STMIK TIME Computer College, Indonesia**
-  -**Ranked 1st in academic results of Year 2 and 3 in Information Technology Program**
+- ⭐️ Certificate
+- -**SQL Hacker Rank (BASIC)**
+- -**Microsoft Excel for Working**
+- -**Photoshop for Working**
+- -**Power BI**
+- -**AIESEC**
+- -**Presenting academic work on information technology for study tours from STMIK TIME Computer College, Indonesia**
+- -**Ranked 1st in academic results of Year 2 and 3 in Information Technology Program**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
