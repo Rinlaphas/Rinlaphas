@@ -3,11 +3,11 @@
 
 - 💻 Here is my React Project **KU Cafe**
 
-- 🍀 I’m currently learning **React, Figma**
-
 - 📱 Here is my Flutter Project **SOS Alertify**
 
 - 🤖 Here is my AI Project **Detect Animals**
+
+- 🍀 I’m currently learning **React, Figma**
 
 - 💎 Conference **Participate in submitting academic articles about Machine learning At the AUCC conference**
 
